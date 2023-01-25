@@ -1,3 +1,3 @@
-# portfolio
-My Tester's Portfolio
+# o mnie
+Jestem początkującym testerem oprogramowania
 # Markdown
