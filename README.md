@@ -1,7 +1,7 @@
-# Jan Kowalski
+# Paweł Panek 
 
 ## O mnie
-Cześć, nazywam się Jan Kowalski, jestem początkującym testerem oprogramowania, w tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem oraz projektami, które miałem dotychczas przyjemność wykonać. 
+Cześć, nazywam się Paweł Panek, jestem początkującym testerem oprogramowania, w tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem oraz projektami, które miałem dotychczas przyjemność wykonać. 
 <center>
 
 ![profile](img/profile.jpg)
@@ -51,17 +51,6 @@ W czasie kursu przygotowywaliśmy się do egzaminu ISTQB Foundation Level, któr
 
 ## Moje projekty
 
-* [Przypadki Testowe](Przypadki Testowe)  dla strony [PHPTravels](https://www.phptravels.net/home)
-
-* [Przypadki Testowe](Przypadki Testowe) dla strony [AutomationPractice](http://automationpractice.com/index.php)
-
-* [Zapytania](Zapytania) REST API dla serwisu [Restful-Booker](https://restful-booker.herokuapp.com/)
-
-* [Testy Automatyczne](Testy Automatyczne) nagrane przy pomocy narzędzia Selenium IDE.
-
-* Moje pierwsze [projekty programistyczne](projekty_programistyczne).
-
-* [Testy Automatyczne](Testy_automatyczne), z wykorzystaniem Selenium WebDriver.
 
 ## Technologie
 
@@ -72,7 +61,7 @@ W czasie kursu przygotowywaliśmy się do egzaminu ISTQB Foundation Level, któr
 </center>
 
 ## Zainteresowania
-Testowanie to nie wszystko, w wolnym czasie eksploruje lasy na rowerze górskim.
+Interesuje sie wypiekiem pizzy neapolitanskiej, spedzam duzo czasu w kuchni doskonalac swoje umiejetnosci. 
 
 <center>
 
@@ -82,6 +71,6 @@ Testowanie to nie wszystko, w wolnym czasie eksploruje lasy na rowerze górskim.
 
 ## Kontakt
 
-Skontaktuj się ze mną mailowo: developer@google.com
+Skontaktuj się ze mną mailowo: pawelpanek96@gmail.com
 
-Linkedin: [Jan Kowalski](http://www.linkedin.com)
+Linkedin: [Paweł Panek](www.linkedin.com/in/paweł-panek-908782251)
