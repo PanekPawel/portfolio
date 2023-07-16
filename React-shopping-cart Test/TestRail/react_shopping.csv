@@ -1,0 +1,72 @@
+"ID","Title","Automation Type","Created By","Created On","Expected Result","Preconditions","Priority","Section","Steps"
+"C1","T-shirt availability on the homepage"," None","Paweł Panek","5/27/2023 6:34 PM","The home page displays 16 types of shirts
+
+","Open Web Browser : Google Chrome - Version: 113.0.5672.127 (Official Version) (64-bit)
+Launched homepage: https://react-shopping-cart-67954.firebaseapp.com/","High","Test Cases","1. Check that the home page displays 16 types of shirts"
+"C2","Filter against size"," None","Paweł Panek","5/27/2023 6:45 PM","The filters corresponding to the sizes are on the left side of the page","Open Web Browser : Google Chrome - Version: 113.0.5672.127 (Official Version) (64-bit)
+Launched Homepage: https://react-shopping-cart-67954.firebaseapp.com/ 
+ 
+","High","Test Cases","1. Check the left side of the page for filters that correspond to the size"
+"C3","Adding a product to your cart"," None","Paweł Panek","5/28/2023 1:10 PM","Selected product are added to the shopping cart","Open Web Browser : Google Chrome - Version: 113.0.5672.127 (Official Version) (64-bit)
+Launched homepage: https://react-shopping-cart-67954.firebaseapp.com/","High","Test Cases","1. Select any product on the home page
+2. Click the 'Add to cart' button
+3. Click the cart icon in the upper right corner"
+"C4","Automatic cart opening"," None","Paweł Panek","5/28/2023 1:15 PM","Pressing 'Add to cart' button automatically opens the shopping cart","open web browser: Google Chrome
+web browser Version: 113.0.5672.127 (Official Version) (64-bit)
+launched home page: https://react-shopping-cart-67954.firebaseapp.com/ ","High","Test Cases","1. Select any product on the home page
+2. Click 'Add to cart' button
+
+
+
+"
+"C5","Operation of the shopping cart"," None","Paweł Panek","5/28/2023 1:23 PM","Every time 'Add to cart' button is clicked, one product is added to the cart","open web browser: Google Chrome
+web browser Version: 113.0.5672.127 (Official Version) (64-bit)
+launched home page: https://react-shopping-cart-67954.firebaseapp.com/","Medium","Test Cases","1. Select any product on the home page
+2. Click 'Add to cart' button
+3. Click the 'Add to cart' button again on the same product.
+4. Click the cart icon in the upper right corner
+
+
+
+
+
+"
+"C6","Shopping cart calculation"," None","Paweł Panek","5/28/2023 1:33 PM","The shopping cart shows the total cost, count of shirts and a list of added shirts ","open web browser: Google Chrome
+web browser Version: 113.0.5672.127 (Official Version) (64-bit)
+launched home page: https://react-shopping-cart-67954.firebaseapp.com/
+","High","Test Cases","1. Select any product on the home page
+2. Click 'Add to cart' button
+3. Click the 'Add to cart' button again on several other products.
+4. Click the cart icon in the upper right corner
+ 
+"
+"C7","Removing a product from the cart"," None","Paweł Panek","5/28/2023 1:37 PM","The number of products after clicking '-' decreased by one, the total amount decreased by the cost of one shirt. After clicking 'X' the shopping cart closes.
+","open web browser: Google Chrome
+web browser Version: 113.0.5672.127 (Official Version) (64-bit)
+launched home page: https://react-shopping-cart-67954.firebaseapp.com/
+
+There is one product in the cart
+
+
+","High","Test Cases","1. Select any product on the home page
+2. Click 'Add to cart' button
+3. Click the cart icon in the upper right corner
+4. Remove one product from your cart by clicking '-' icon
+5. Remove last product form cart by click 'X'
+
+
+
+
+"
+"C8","Functionality of the  'checkout' button"," None","Paweł Panek","5/28/2023 1:44 PM","Clicking 'CHECKOUT' brings up a popup with the total cost","Open Web Browser : Google Chrome - Version: 113.0.5672.127 (Official Version) (64-bit)
+Launched Homepage: https://react-shopping-cart-67954.firebaseapp.com/","High","Test Cases","1. Select any product on the home page
+2. Click 'Add to cart' button
+3. Click the 'Add to cart' button again on several other products.
+4. Click the cart icon in the upper right corner
+4. Click the 'CHECKOUT' button at the bottom of the shopping cart panel"
+"C9","'Free shipping' option"," None","Paweł Panek","5/28/2023 1:49 PM","The free sheeping option should display for products with free shipping.","Open Web Browser : Google Chrome - Version: 113.0.5672.127 (Official Version) (64-bit)
+Launched Homepage: https://react-shopping-cart-67954.firebaseapp.com/","Medium","Test Cases","1. Check if 'Free shipping' option is displayed for products with free delivery "
+"C10","Shopping cart functionality"," None","Paweł Panek","5/28/2023 1:51 PM","The shopping cart contains a picture of the added product, size and quantity","Open Web Browser : Google Chrome - Version: 113.0.5672.127 (Official Version) (64-bit)
+Launched Homepage: https://react-shopping-cart-67954.firebaseapp.com//","High","Test Cases","1. Select any product on the home page
+2. Click 'Add to cart' button
+4. Click the cart icon in the upper right corner"
