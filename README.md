@@ -12,7 +12,7 @@ Testowanie oprogramowania jest niezmiennie ważnym elementem procesu wytwarzania
 z różnych aplikacji, w których miałem okazje znaleźć pewne nieścisłości. Jestem osobą, która lubi poszukać dziury w całym, a jednocześnie skupiam się na detalach. Postanowiłem, że zostanę testerem oprogramowania i moje umiejętności przydadzą się w Twoim zespole.
 
 ## Kurs Software Development Academy
-Miałem przyjemność uczestniczyć w kursie "Tester Manualny" organizowanym przez Software Development Academy. Przez 105 godzin zajęć oraz wiele godzin poświęconych na pracę samodzielną zdobyłem wiedzę.
+Miałem przyjemność uczestniczyć w kursie "Tester Manualny" organizowanym przez Software Development Academy. Przez 105 godzin zajęć oraz wiele godzin poświęconych na pracę samodzielną zdobyłem wiedzę konieczną do pracy w zawodzie testera.
 <center>
 
 </center>
@@ -21,7 +21,6 @@ Sprawnie będę poruszał się także w projektach zwinnych, dzięki zajęciom w
 
 <center>
 
-![profile](img/scrum_certificate.png)
 
 </center>
 
