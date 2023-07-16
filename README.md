@@ -18,7 +18,7 @@ z różnych aplikacji, w których miałem okazje znaleźć pewne nieścisłości
 
 
 
-##H2 <Technologie> 
+##Technologie 
 </center>
 
 W czasie kursu nauczyłem się nie tylko testować, ale rozwijałem swoje umiejętności w wielu kierunkach między innymi:
