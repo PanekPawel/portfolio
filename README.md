@@ -12,7 +12,7 @@ Testowanie oprogramowania jest niezmiennie ważnym elementem procesu wytwarzania
 
 
 ## <center>SOFTWARE DEVELOPMENT ACADEMY</center>
-Kurs nauczył mnie wielu nowych technologii, poszerzyłem swoje umiejętności dzięki czemu praca nad aplikacjami stała się dużo wydajniejsza. Technologie, które poznałem podczas kursu to:
+Kurs nauczył mnie wielu nowych technologii, poszerzyłem swoje umiejętności, dzięki czemu praca nad aplikacjami stała się dużo wydajniejsza. Technologie, które poznałem podczas kursu to:
 
 •	GIT (oraz Gitlab)
 
