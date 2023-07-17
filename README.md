@@ -1,68 +1,49 @@
+## <center> Paweł Panek </center>
 
-# Paweł Panek 
 
-## O mnie
-Cześć, nazywam się Paweł Panek, jestem początkującym testerem oprogramowania, w tym miejscu chciałbym podzielić się z Tobą moim doświadczeniem oraz projektami, które miałem dotychczas przyjemność wykonać. 
+## <center> O mnie</center>
+
+Cześć, nazywam się Paweł Panek, jestem początkującym testerem oprogramowania, swoje pierwsze doświadczenie z zakresu testowania oprogramowania zdobyłem dzięki udziałowi w intensywnym kursie „Tester Manualny” firmy Software Development Academy, jednak pierwsze doświadczenia związane z zagadnieniami z branży IT poznałem już w szkole średniej. Aktualnie przygotowuję się do egzaminu ISTQB oraz poszukuję swojej pierwszej pracy na stanowisku testera.  
 <center>
 
 
 </center>
-## Kurs Software Development Academy
-Miałem przyjemność uczestniczyć w kursie "Tester Manualny" organizowanym przez Software Development Academy. Przez 105 godzin zajęć oraz wiele godzin poświęconych na pracę samodzielną zdobyłem wiedzę konieczną do pracy w zawodzie testera.
-<center>
+Testowanie oprogramowania jest niezmiennie ważnym elementem procesu wytwarzania oprogramowania. Moje pierwsze kroki w tym kierunku stawiałem dość nieświadomie korzystając z różnych aplikacji, w których miałem okazję znaleźć pewne nieścisłości. Jestem osobą dokładną, która skupia się na detalach, testowanie oprogramowania daje mi dużo satysfakcji.
 
-## Programowanie
-Testowanie oprogramowania jest niezmiennie ważnym elementem procesu wytwarzania oprogramowania. Moje pierwsze kroki w tym kierunku stawiałem dość nieświadomie korzystając
-z różnych aplikacji, w których miałem okazje znaleźć pewne nieścisłości. Jestem osobą, która lubi poszukać dziury w całym, a jednocześnie skupiam się na detalach. Postanowiłem, że zostanę testerem oprogramowania i moje umiejętności przydadzą się w Twoim zespole.
+
+## <center>SOFTWARE DEVELOPMENT ACADEMY</center>
+Kurs nauczył mnie wielu nowych technologii, poszerzyłem swoje umiejętności dzięki czemu praca nad aplikacjami stała się dużo wydajniejsza. Technologie, które poznałem podczas kursu to:
+
+•	GIT (oraz Gitlab)
+
+•	Rest API
+
+
+•	Podstawy relacyjnych baz danych SQL 
+
+•	Podstawy : JavaScript, HTTP, HTML 5, CSS, Java SE 8+
+
+•	Nauczyłem się testować w metodyce BDD
+
+•	Jira
+
+•	Test Rail
+
+•	Selenium
+
+•	DevTools
+
+•	Postman
+
 
 </center>
-
-
-
-Technologie 
-
-</center>
-
-W czasie kursu nauczyłem się nie tylko testować, ale rozwijałem swoje umiejętności w wielu kierunkach między innymi:
-
-* Nauczyłem się pracy z Narzędziem GIT (oraz Gitlab)
-
-* Nauczyłem się podstaw REST API oraz narzędzi sieciowych, dzięki czemu w przyszłej pracy, będę mógł testować back-end przy pomocy odpowiednich narzędzi.
-
-* Poznałem podstawy Baz danych przy użyciu SQL /  MySQL
-
-* Podstawy : JavaScript, HTTP, HTML 5, CSS  Java SE 8+
-
-* Potrafię napisać proste programy w języku Java 8+
-
-* Nauczyłem się testować w metodyce BDD
-
-* poznałem narzędzia testerskie: Jira, TestRail, DevTools i inne
-
-## Bloki tematyczne których dotyczył mój kurs  
-<center>
-1	 Wprowadzenie do testowania
-2	 Techniki projektowania testów
-3	 Testowanie w oparciu o ryzyko
-4	 Narzędzia testerskie
-5	 Zajęcia z testowania
-6	 Podstawy baz danych
-7	 Wprowadzenie do programowania
-8	 Testowanie w metodyce BDD
-9	 Podstawy Selenium WebDriver
-10 Zajęcia podsumowujące (projekt końcowy)
-11 Przygotowanie do egzaminu ISTQB
-</center>
-
-## Moje projekty
 
 
 <center>
 
-</center>
 
 ## Zainteresowania
-Interesuje sie wypiekiem pizzy neapolitanskiej, spedzam duzo czasu w kuchni doskonalac swoje umiejetnosci. 
+Wypiek pizzy, literatura fantasy, motoryzacja 
 
 <center>
 
@@ -72,6 +53,7 @@ Interesuje sie wypiekiem pizzy neapolitanskiej, spedzam duzo czasu w kuchni dosk
 ## Kontakt
 
 Skontaktuj się ze mną mailowo: pawelpanek96@gmail.com
+
 lub przez Linkedin: [Paweł Panek](www.linkedin.com/in/paweł-panek-908782251)
 
 
