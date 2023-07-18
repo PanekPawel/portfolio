@@ -1,15 +1,15 @@
-## Test aplikacji: https://react-shopping-cart-67954.firebaseapp.com/
+## Application test: https://react-shopping-cart-67954.firebaseapp.com/
 
-W folderze DEV TOOLS znajduje się raport z audytu strony wygenerowany za pomocą Google Lighthouse
+The DEV TOOLS folder contains a site audit report generated using Google Lighthouse
 
-Folder Jira zawiera zgłoszony błąd za pomocą Jira Software
+Jira folder contains the reported error using Jira Software
 
-Folder Selenium zawiera wygenerowany raport
+Selenium folder contains the generated report
 
-Folder TestRail zawiera przypadki testowe oraz składnie BDD
-## Krótkie podsumowanie 
+TestRail folder contains test cases and BDD syntaxes
+## Brief summary 
 
 
-Wykryto jeden istotny defekt, ocena końcowa aplikacji jest pozytywna
+One significant defect was detected, the final evaluation of the application is positive
 
-szczegóły w pliku test raport.docx
+details in the file test report.docx
