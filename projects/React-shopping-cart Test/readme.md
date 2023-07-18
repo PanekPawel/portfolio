@@ -1,4 +1,4 @@
-##Test aplikacji: https://react-shopping-cart-67954.firebaseapp.com/
+Test aplikacji: https://react-shopping-cart-67954.firebaseapp.com/
 
 W folderze DEV TOOLS umieściłem raport z audytu strony za pomocą Google Lighthouse
 
