@@ -8,3 +8,8 @@ za pomocą Selenium przetestowałem dodawanie produktów do koszyka. Raport umie
 
 TestRail zawiera przypadki testowe oraz składnie BDD
 
+
+Test Aplikacji zakończony sukcesem
+
+wykryłem jeden istotny defekt, ocena końcowa aplikacji jest pozytywna
+szczegóły w pliku test raport.docx
