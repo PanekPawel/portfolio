@@ -1,15 +1,15 @@
-Test aplikacji: https://react-shopping-cart-67954.firebaseapp.com/
+## Test aplikacji: https://react-shopping-cart-67954.firebaseapp.com/
 
-W folderze DEV TOOLS umieściłem raport z audytu strony za pomocą Google Lighthouse
+W folderze DEV TOOLS znajduje się raport z audytu strony wygenerowany za pomocą Google Lighthouse
 
-folder Jira zawiera zgłoszony błąd za pomocą Jira Software
+Folder Jira zawiera zgłoszony błąd za pomocą Jira Software
 
-za pomocą Selenium przetestowałem dodawanie produktów do koszyka. Raport umieściłem w folderze Selenium
+Folder Selenium zawiera wygenerowany raport
 
-TestRail zawiera przypadki testowe oraz składnie BDD
+Folder TestRail zawiera przypadki testowe oraz składnie BDD
+## Krótkie podsumowanie 
 
 
-Test Aplikacji zakończony sukcesem
+Wykryto jeden istotny defekt, ocena końcowa aplikacji jest pozytywna
 
-wykryłem jeden istotny defekt, ocena końcowa aplikacji jest pozytywna
 szczegóły w pliku test raport.docx
